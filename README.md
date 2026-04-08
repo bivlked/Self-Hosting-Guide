@@ -4085,7 +4085,6 @@ NetMaker Architecture. Credit: [Netmaker](https://netmaker.readthedocs.io/en/v0.
 
 [PiVPN](https://pivpn.io/) is the simplest VPN installer, designed for [Raspberry Pi](https://www.raspberrypi.com).
 
-
 [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) is a one-command installer for AmneziaWG 2.0 — a WireGuard fork that bypasses DPI-based VPN blocking.
 
 [Algo VPN](https://github.com/trailofbits/algo) is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN. It uses the most secure defaults available and works with common cloud providers.
